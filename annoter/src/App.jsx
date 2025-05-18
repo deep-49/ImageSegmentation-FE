@@ -17,10 +17,10 @@ const router = createBrowserRouter([
         path: "/",
         element: <Hero />
       },
-      {
-        path: "forgotpassword",
-        element: <ForgotPassword />
-      },
+      // {
+      //   path: "forgotpassword",
+      //   element: <ForgotPassword />
+      // },
       {
         path: "login",
         element: <Login />

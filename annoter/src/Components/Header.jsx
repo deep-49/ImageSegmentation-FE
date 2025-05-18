@@ -22,7 +22,7 @@ export default function ResponsiveHeader() {
           
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
-            <NavLink href="#" isActive>Home</NavLink>
+            <NavLink href="/" isActive>Home</NavLink>
             <NavLink href="#">Analysis</NavLink>
             <NavLink href="#">About</NavLink>
             <NavLink href="#">Contact</NavLink>
